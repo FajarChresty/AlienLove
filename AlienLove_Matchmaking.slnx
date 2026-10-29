@@ -1,0 +1,5 @@
+﻿<Solution>
+  <Project Path="AlienLove.Core.csproj" />
+  <Project Path="AlienLove.Dummy.csproj" />
+  <Project Path="AlienLove.Tests.EditMode.csproj" />
+</Solution>

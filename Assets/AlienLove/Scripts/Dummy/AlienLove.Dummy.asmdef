@@ -1,0 +1,16 @@
+{
+    "name": "AlienLove.Dummy",
+    "rootNamespace": "AlienLove.Matchmaking.Dummy",
+    "references": [
+        "AlienLove.Core"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
